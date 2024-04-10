@@ -1,0 +1,355 @@
+[
+	{
+		"products": {
+			"characters": [
+				{
+					"type": "character",
+					"img": "cards/characters/char1",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"label": "New",
+					"id": "010111",
+					"currency": 3.81,
+					"title": "Purple Lumpur",
+					"price": "282.99"
+				},
+				{
+					"type": "character",
+					"img": "cards/characters/char2",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"label": [
+						"New",
+						"Popular"
+					],
+					"id": "010211",
+					"currency": 5.9,
+					"title": "Green Lumpur",
+					"price": "270.99"
+				}
+			],
+			"planets": [
+				{
+					"type": "planet",
+					"img": "cards/planets/planet1",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"label": "New",
+					"id": "020111",
+					"currency": 3.54,
+					"title": "Mars",
+					"price": "9,820.99",
+					"coordinates": "-15, +09, +89"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet2",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"label": "Popular",
+					"id": "020211",
+					"currency": "4.50",
+					"title": "Pluto",
+					"price": "12,820.99",
+					"coordinates": "+243, -10, -52"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet3",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"label": "Featured",
+					"id": "020311",
+					"currency": "2.50",
+					"title": "Gliese",
+					"price": "10,420.99",
+					"coordinates": "-12, +110, -32"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet4",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"id": "020511",
+					"currency": "3.20",
+					"title": "Wolf",
+					"price": "7,420.99",
+					"coordinates": "-12, +242, -120"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet5",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"label": "New",
+					"id": "020511",
+					"currency": "5.15",
+					"title": "Leuten",
+					"price": "13,642.99",
+					"coordinates": "0, +25, -400"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet6",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"id": "020611",
+					"currency": "3.90",
+					"title": "Eridanee",
+					"price": "6,900.99",
+					"coordinates": "+100, +50, -400"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet7",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"id": "020711",
+					"currency": "4.20",
+					"title": "Virginia",
+					"price": "7,300.99",
+					"coordinates": "+130, -75, +325"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet8",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"id": "020811",
+					"currency": "3.35",
+					"title": "Jupiter",
+					"price": "7,900.99",
+					"coordinates": "+10, -50, +100"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet9",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"id": "020911",
+					"currency": "3.35",
+					"title": "Cancri",
+					"price": "4,900.99",
+					"coordinates": "-250, +50, +200"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet1",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"label": "New",
+					"id": "020111",
+					"currency": 3.54,
+					"title": "Mars",
+					"price": "9,820.99",
+					"coordinates": "-15, +09, +89"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet2",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"label": "Popular",
+					"id": "020211",
+					"currency": "4.50",
+					"title": "Pluto",
+					"price": "12,820.99",
+					"coordinates": "+243, -10, -52"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet3",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"label": "Featured",
+					"id": "020311",
+					"currency": "2.50",
+					"title": "Gliese",
+					"price": "10,420.99",
+					"coordinates": "-12, +110, -32"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet4",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"id": "020511",
+					"currency": "3.20",
+					"title": "Wolf",
+					"price": "7,420.99",
+					"coordinates": "-12, +242, -120"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet5",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"label": "New",
+					"id": "020511",
+					"currency": "5.15",
+					"title": "Leuten",
+					"price": "13,642.99",
+					"coordinates": "0, +25, -400"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet6",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"id": "020611",
+					"currency": "3.90",
+					"title": "Eridanee",
+					"price": "6,900.99",
+					"coordinates": "+100, +50, -400"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet7",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"id": "020711",
+					"currency": "4.20",
+					"title": "Virginia",
+					"price": "7,300.99",
+					"coordinates": "+130, -75, +325"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet8",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"id": "020811",
+					"currency": "3.35",
+					"title": "Jupiter",
+					"price": "7,900.99",
+					"coordinates": "+10, -50, +100"
+				},
+				{
+					"type": "planet",
+					"img": "cards/planets/planet9",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"id": "020911",
+					"currency": "3.35",
+					"title": "Cancri",
+					"price": "4,900.99",
+					"coordinates": "-250, +50, +200"
+				}
+			],
+			"items": [
+				{
+					"type": "item",
+					"img": "cards/items/item1",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"label": [
+						"New",
+						"Common"
+					],
+					"id": "030111",
+					"currency": 4.54,
+					"title": "Gunny",
+					"price": "520.99",
+					"level": 3
+				},
+				{
+					"type": "item",
+					"img": "cards/items/item2",
+					"imgSize": {
+						"width": 372,
+						"height": 372
+					},
+					"label": "Limited",
+					"id": "030211",
+					"currency": 6.5,
+					"title": "Bazooka",
+					"price": "2,600.99",
+					"level": 5
+				}
+			],
+			"bundle": [
+				{
+					"type": "bundle",
+					"img": "cards/bundle/bundle1",
+					"imgSize": {
+						"width": 572,
+						"height": 440
+					},
+					"label": [
+						"New",
+						"Common"
+					],
+					"id": "040111",
+					"currency": "4.54",
+					"title": "Bazuka and Mana potion",
+					"price": "3,520.99",
+					"level": 8,
+					"avatars": [
+						"cards/bundle/avatar1.png",
+						"cards/bundle/avatar2.png"
+					]
+				},
+				{
+					"type": "bundle",
+					"img": "cards/bundle/bundle2",
+					"imgSize": {
+						"width": 572,
+						"height": 440
+					},
+					"label": "Limited",
+					"id": "040211",
+					"currency": "6.50",
+					"title": "Axe and Grenade",
+					"price": "2,600.99",
+					"level": 7,
+					"avatars": [
+						"cards/bundle/avatar1.png",
+						"cards/bundle/avatar2.png"
+					]
+				}
+			]
+		}
+	}
+]
